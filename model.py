@@ -9,6 +9,7 @@ from keras.models import Sequential
 from keras.layers import Dense, Dropout
 import matplotlib.pyplot as plt
 import pandas as pd
+import random
 warnings.filterwarnings('ignore')
 
 

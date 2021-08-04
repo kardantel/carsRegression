@@ -24,7 +24,7 @@ def main(data):
     # The data is prepared, scaled, the model is created, metrics are obtained,
     # and the prediction is made.
     model.data_preparation(X, y)
-    model.get_metrics()
+    # model.get_metrics()
 
 
 if __name__ == "__main__":
